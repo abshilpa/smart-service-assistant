@@ -1,6 +1,6 @@
-# smart-service-assistant
-AI-powered chatbot for seamless customer support and user assistance.
-Smart Service Assistant 🤖
+# Smart Service Assistant 🤖
+## AI-powered chatbot for seamless customer support and user assistance.
+
 
 An AI-powered, responsive chatbot designed to deliver seamless customer support and improve service quality.
 Built with Flask (back-end), HTML/CSS/JavaScript (front-end), and NLP (Hugging Face Transformers), this project demonstrates how UX-driven design and AI integration can enhance user satisfaction, retention, and trust.
