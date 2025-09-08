@@ -18,8 +18,6 @@ Ensuring responsive design for a consistent experience across devices
 
 Collecting feedback for continuous improvement
 
-This project was completed as a 10-hour skill-building exercise and highlights both technical implementation and human-centered design principles.
-
 🎯 Business Goals
 
 Customer Retention → Help users get answers quickly, reducing abandonment
@@ -83,22 +81,6 @@ Run the Flask app
 python app.py
 
 
-Open in browser
-
-http://127.0.0.1:5000
-
-📂 Project Structure
-smart-service-assistant/
-│── app.py                 # Flask back-end server
-│── requirements.txt       # Project dependencies
-│── templates/
-│   └── index.html         # Front-end chat interface
-│── static/
-│   ├── style.css          # Styling
-│   └── script.js          # Chat interaction logic
-│── docs/
-│   └── project_report.docx   # Documentation with screenshots
-
 🧠 Skills Demonstrated
 
 Python programming & logic building
@@ -113,9 +95,6 @@ API integration (Hugging Face / OpenAI)
 
 UX-focused, human-centered design
 
-📸 Documentation
-
-Detailed step-by-step project documentation with screenshots is available in the docs/ folder.
 
 🚧 Future Enhancements
 
